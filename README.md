@@ -1,9 +1,9 @@
 # BenchMark.ConsoleApp
-Performance Measurement with BenchMark
+``` Performance Measurement with BenchMark
 About Performance Measurements
 Measurements were made in different scenarios.
 In the measurement made between Foreach, For, While, and HashSet, While and For were very close to each other in terms of speed. In some scenarios, While was fast, and in others, For. The next order continued as Foreach and HashSet. HashSet was always the slowest.
-
+``` 
 Another scenario I made was performance measurements on the database.
 I created some scenarios using EntityFramework, Dapper, and pure SQL code. Here, in terms of speed;
 SQL>Dapper>EntityFramework
