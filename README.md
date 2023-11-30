@@ -1,5 +1,6 @@
 # BenchMark.ConsoleApp
-``` Performance Measurement with BenchMark
+```
+Performance Measurement with BenchMark
 About Performance Measurements
 Measurements were made in different scenarios.
 In the measurement made between Foreach, For, While, and HashSet, While and For were very close to each other in terms of speed. In some scenarios, While was fast, and in others, For. The next order continued as Foreach and HashSet. HashSet was always the slowest.
